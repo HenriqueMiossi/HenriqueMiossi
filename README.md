@@ -2,7 +2,6 @@
 
 This is the home for my projects and tech experiments :smiley:
 
-- 🔭 &nbsp;I’m currently working on a blockchain game with typescript :wink:
 - 🌱 &nbsp;I’m currently learning ReactJS, NodeJS
 - 📫 &nbsp;How to reach me: [@henriquemiossi](https://www.instagram.com/henriquemiossi/)
 - ⚡ &nbsp;Fun fact: I :heart: PC Gaming :computer: and Retro Games :space_invader:
